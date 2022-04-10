@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/giris.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/evet.unity
+    guid: ee47ecb82432cc8459a0ba0c1461f5aa
+  - enabled: 1
+    path: Assets/Scenes/hayir.unity
+    guid: 5c6faa270102e794ba31a5d35f46f397
+  - enabled: 1
+    path: Assets/Scenes/basla.unity
+    guid: f7ba583a0c647da45bedb91fefd889b5
+  - enabled: 1
+    path: Assets/Scenes/cikisyap.unity
+    guid: c00aa52bb92e58341ae7f78c81915c6e
+  m_configObjects: {}
